@@ -1,0 +1,129 @@
+body{
+    background-color: #efe5e5;
+    margin: 0;
+    padding: 20px;
+}
+
+.header{
+    background-color:#6e0f20;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header p{
+    font-size: 20px;
+    color: #ffff;
+}
+
+.header a {
+     display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: #b8173d;
+    border: 1px solid #c18f93;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin: 10px 8px 0 0;
+}
+
+.aboutme{
+    background-color: rgb(228, 215, 215);
+    border-radius: 20px;
+    padding: 35px;
+    margin-bottom: 20px;
+}
+
+.aboutme h2{
+    font-size: 30px;
+    color: #6e0f20;
+    padding: 20px;
+    margin: 0 0 30px 0;
+}
+
+#about img{
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 100px;
+    background-color: #b39098;
+    margin: 0 0 30px 0;
+}
+
+.about-text{
+    display: inline-block;
+    vertical-align: middle;
+    width: 65%;
+    color: #6e0f20;
+    margin-left: 30px;
+}
+
+.skills{
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0 0;
+}
+
+.skills li{
+    display: inline-block;
+    width: 26%;
+    background-color: #f8eeee;
+    border: 1px solid #e6cfd2;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.section {
+    background-color: white;
+    padding: 35px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    color: #6e0f20;
+    font-size: 30px;
+    margin: 0 0 30px 0;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e6cfd2;
+}
+
+.projects {
+    background-color: #f8eeee;
+    border: 1px solid #e6cfd2;
+    border-left: 5px solid #b8173d;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.projects img {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid #e6cfd2;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.contact {
+    background-color: #6e0f20;
+    color: white;
+}
+
+.contact h2 {
+    color: white;
+    border-bottom: 2px solid #c18f93;
+}
+
+.contact a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: #b8173d;
+    border: 1px solid #c18f93;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin: 10px 8px 0 0;
+}
